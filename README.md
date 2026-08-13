@@ -57,9 +57,6 @@ NOVA X is a comprehensive AI-driven platform that acts as a virtual Co-Founder, 
 ## Deployment
 NOVA X is fully containerized. Use `docker-compose up --build -d` for a single-command deployment, or deploy the frontend to **Vercel** and the backend to **Render** independently.
 
-## Screenshots Placeholder
-![Dashboard Placeholder](docs/assets/dashboard.png)
-*(UI Screenshots to be injected here prior to submission)*
 
 ## Architecture
 See `docs/ARCHITECTURE.md` and `docs/SYSTEM_DIAGRAM.md` for a comprehensive breakdown of the application flow, data models, and API interactions.
